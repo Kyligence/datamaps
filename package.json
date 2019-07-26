@@ -1,5 +1,5 @@
 {
-  "name": "datamaps",
+  "name": "kyligence-datamaps",
   "main": "dist/datamaps.all.js",
   "description": "datamaps with d3.js",
   "version": "0.5.9",
